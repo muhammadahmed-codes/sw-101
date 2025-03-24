@@ -1,0 +1,14 @@
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/bin/Debug/net9.0/DependencyInjection
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/bin/Debug/net9.0/DependencyInjection.deps.json
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/bin/Debug/net9.0/DependencyInjection.runtimeconfig.json
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/bin/Debug/net9.0/DependencyInjection.dll
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/bin/Debug/net9.0/DependencyInjection.pdb
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.AssemblyInfo.cs
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.dll
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/refint/DependencyInjection.dll
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.pdb
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/DependencyInjection.genruntimeconfig.cache
+/Users/muhammadahmed/Documents/Csharpp/DependencyInjection/obj/Debug/net9.0/ref/DependencyInjection.dll

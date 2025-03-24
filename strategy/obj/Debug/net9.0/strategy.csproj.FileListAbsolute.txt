@@ -1,0 +1,14 @@
+/Users/muhammadahmed/Documents/Csharpp/strategy/bin/Debug/net9.0/strategy
+/Users/muhammadahmed/Documents/Csharpp/strategy/bin/Debug/net9.0/strategy.deps.json
+/Users/muhammadahmed/Documents/Csharpp/strategy/bin/Debug/net9.0/strategy.runtimeconfig.json
+/Users/muhammadahmed/Documents/Csharpp/strategy/bin/Debug/net9.0/strategy.dll
+/Users/muhammadahmed/Documents/Csharpp/strategy/bin/Debug/net9.0/strategy.pdb
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.AssemblyInfoInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.AssemblyInfo.cs
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.csproj.CoreCompileInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.dll
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/refint/strategy.dll
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.pdb
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/strategy.genruntimeconfig.cache
+/Users/muhammadahmed/Documents/Csharpp/strategy/obj/Debug/net9.0/ref/strategy.dll

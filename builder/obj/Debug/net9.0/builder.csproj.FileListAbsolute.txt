@@ -1,0 +1,14 @@
+/Users/muhammadahmed/Documents/Csharpp/builder/bin/Debug/net9.0/builder
+/Users/muhammadahmed/Documents/Csharpp/builder/bin/Debug/net9.0/builder.deps.json
+/Users/muhammadahmed/Documents/Csharpp/builder/bin/Debug/net9.0/builder.runtimeconfig.json
+/Users/muhammadahmed/Documents/Csharpp/builder/bin/Debug/net9.0/builder.dll
+/Users/muhammadahmed/Documents/Csharpp/builder/bin/Debug/net9.0/builder.pdb
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.AssemblyInfoInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.AssemblyInfo.cs
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.csproj.CoreCompileInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.dll
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/refint/builder.dll
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.pdb
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/builder.genruntimeconfig.cache
+/Users/muhammadahmed/Documents/Csharpp/builder/obj/Debug/net9.0/ref/builder.dll

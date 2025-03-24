@@ -1,0 +1,14 @@
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.AssemblyInfoInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.AssemblyInfo.cs
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.csproj.CoreCompileInputs.cache
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/bin/Debug/net9.0/circuit-breaker
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/bin/Debug/net9.0/circuit-breaker.deps.json
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/bin/Debug/net9.0/circuit-breaker.runtimeconfig.json
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/bin/Debug/net9.0/circuit-breaker.dll
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/bin/Debug/net9.0/circuit-breaker.pdb
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.dll
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/refint/circuit-breaker.dll
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.pdb
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/circuit-breaker.genruntimeconfig.cache
+/Users/muhammadahmed/Documents/Csharpp/circuit-breaker/obj/Debug/net9.0/ref/circuit-breaker.dll
